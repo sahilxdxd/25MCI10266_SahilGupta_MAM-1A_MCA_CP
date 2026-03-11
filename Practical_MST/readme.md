@@ -1,6 +1,6 @@
 # Practical MST 
 ## Longest Mountain in Array - leetcode 845
-```
+``` python
 #include <bits/stdc++.h>
 using namespace std;
 
