@@ -1,6 +1,6 @@
 # Practical MST 
 ## Longest Mountain in Array - leetcode 845
-``` python
+``` cpp
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -46,7 +46,7 @@ public:
 
 ## Minimum limit of balls in a bag - leetcode 1760
 
-```
+``` python
 class Solution:
     def minimumSize(self, nums, maxOperations):
         
